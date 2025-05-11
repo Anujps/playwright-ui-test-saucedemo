@@ -1,0 +1,16 @@
+{
+  "name": "sauceDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "private": true,
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.17"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "expect-playwright": "^0.8.0"
+  }
+}
